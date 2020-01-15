@@ -5,4 +5,4 @@ Each hand of the game transacts with the EOS blockchain and it's recorded thus m
 
 The game is basically controlled by the frontend and interacts with the blockchain through a customized API Service .
 
-The Element Battle Game is a PVE (player vs computer). The player plays against an AI that has been built to effectively draw cards and play fairly against the player
+The Element Battle Game is a PVE (player vs computer) game. The player plays against an AI that has been built to effectively draw cards and play fairly against the player with each hand wins and losses recorded on the blockchain
